@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+.venv/
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# Docker
+*.log
